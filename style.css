@@ -1,0 +1,186 @@
+
+.opening-header {
+  display: flex;
+  justify-content: center;
+  background-color: black;
+  }
+  
+  .opening-image {
+    max-width: 1450px;
+    max-height: 750px;
+  }
+
+  .opening-header {
+    max-width: 100%;
+    height: auto;
+  }
+
+
+h1 {
+  text-align: center;
+  background-color: darkorange;
+  border-style: dashed;
+  border-color: black;
+  margin: 0 10px;
+  font-size: 60px;
+  font-family: 'Anton', sans-serif;
+  font-weight: lighter;
+
+}
+
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  border-width: 10px;
+  border-color: black;
+  }
+
+li {
+  list-style-type: none;
+  width: 50px;
+  height: 25px;
+  background-color: #8cacea;
+  margin: 4px;
+  font-size: 20px;
+  text-align: center;
+  border-style: solid;
+  border-color: black;
+  text-decoration: none;
+  font-family: 'Rock Salt', cursive;
+  color: black;
+  
+}
+
+li-link:link{
+   color: black;
+   text-decoration: none;
+}
+li-link:visited{
+   color: black;
+   text-decoration: none;
+}
+li-link:hover {
+   color: black;
+   text-decoration: none;
+}
+li-link:active {
+   color: black;
+   text-decoration: none;
+}
+
+
+body {
+  background-color: slategray;
+}
+
+.intro {
+  margin: 20px 40px;
+  padding: 10px 10px;
+  background-color: whitesmoke;
+  font-family: 'Neucha', cursive;
+  font-size: 1.5em;
+}
+
+h2 {
+  Background-color:#8cacea;
+  color: black;
+  text-align: center;
+  text-decoration-line: underline;
+  border-style: solid;
+  border-color: black;
+}
+
+article {
+  display: flex;
+  justify-content: flex-start;
+  background-color: whitesmoke;
+  font-family: 'Neucha', cursive;
+  font-size: 1.5em;
+  margin: 10px 40px
+}
+
+.Kazakus {
+ margin: 30px 30px;
+ padding: 10px 10px;
+ background-color: black;
+ max-width: 307px;
+ height: 450px;
+ }
+
+ .Reno {
+  margin: 30px 30px;
+  padding: 10px 10px;
+  background-color: black;
+  max-width: 307px;
+  height: 450px;
+  }
+
+.Alexstrasza {
+  margin: 30px 30px;
+  padding: 10px 10px;
+  background-color: black;
+  max-width: 307px;
+  height: 450px;
+   }
+
+.Yogg {
+  margin: 30px 30px;
+  padding: 10px 10px;
+  background-color: black;
+  max-width: 307px;
+  height: 450px;
+    }
+
+.Lich {
+  margin: 30px 30px;
+  padding: 10px 10px;
+  background-color: black;
+  max-width: 307px;
+  height: 450px;
+  }
+
+  .Deathwing {
+  margin: 30px 30px;
+  padding: 10px 10px;
+  background-color: black;
+  max-width: 307px;
+  height: 450px;
+    }
+
+  .Leeroy {
+  margin: 30px 30px;
+  padding: 10px 10px;
+  background-color: black;
+  max-width: 307px;
+  height: 450px;
+   }
+
+ .kazakus-article {
+align-items: center;
+justify-content: center;
+margin: 15px 15px;
+padding: 10px 30px;
+background-color:#8cacea;
+ }
+
+.closing-nav {
+display: flex;
+justify-content: center;
+margin: 30px 30px;
+padding 20px 20px;
+background-color: whitesmoke;
+border-style: solid;
+border-color: black;
+}
+
+ footer  {
+display: flex;
+justify-content: center;
+font-family: 'Rock Salt', cursive;
+font-size: 1.5em;
+background-color: darkorange;
+padding: 30px 0;
+ }
